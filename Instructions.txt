@@ -1,0 +1,11 @@
+QString text = QString("1. After opening the Application, Click on the File option at the top left and select Open Folder Location.
+Now select the directory path .
+Now choose the base variante and press Confirm.
+Now the Other Variante Files will pop up and check out the files of your wish
+Choose the column needed for comparision from the list of radio buttons
+Now the table is showed and you can calculate Nutzen werte with  your difference time given in Spinbox values (Here if difference is <= -(value) or difference is >= value, the nutzen  werte are calculated.
+Now Click on Update Nutzen Column(s) and Display Gesamtnutzen [pro Jahr] button for final Calculations
+----------------------------------------------------------------------------------------------------
+Scope of Improvements
+a. Reset Button to erase all existing values and re-run application can be implemented later
+b. The maximum other varinate files that can be compared at the moment are only 5"
