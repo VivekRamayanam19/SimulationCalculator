@@ -500,7 +500,7 @@ void MainWindow::on_actionUsage_Of_Application_triggered()
 "3. Now choose the base variante and press Confirm \n 4. Now the Other Variante Files will pop up and check out the files of your wish \n "
 "5. Choose the column needed for comparision from the list of radio buttons \n 6. Now the table is showed and you can calculate Nutzen werte with "
 " your difference time given in Spinbox values (Here if difference is <= -(value) or difference is >= value, the nutzen  werte are calculated \n "
-"6.  Now Click on Update Nutzen Column(s) and Display Gesamtnutzen [pro Jahr] button for final Calculations \n "
+"7.  Now Click on Update Nutzen Column(s) and Display Gesamtnutzen [pro Jahr] button for final Calculations \n "
 "---------------------------------------------------------------------------------------------------- \n "
 "Scope of Improvements: \n "
 "a. Reset Button to erase all existing values and re-run application can be implemented later \n "
